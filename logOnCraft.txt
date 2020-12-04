@@ -1,0 +1,72 @@
+[ INFO] [1606753901.814079164]: FCU URL: /dev/ttyUSB0:115200
+[ INFO] [1606753901.820075582]: serial0: device: /dev/ttyUSB0 @ 115200 bps
+[ INFO] [1606753901.828933510]: GCS bridge disabled
+[ INFO] [1606753901.947362576]: Plugin 3dr_radio loaded
+[ INFO] [1606753901.954107685]: Plugin 3dr_radio initialized
+[ INFO] [1606753901.954269327]: Plugin actuator_control blacklisted
+[ INFO] [1606753901.954321213]: Plugin altitude blacklisted
+[ INFO] [1606753901.954504798]: Plugin command loaded
+[ INFO] [1606753901.973930659]: Plugin command initialized
+[ INFO] [1606753901.974066542]: Plugin ftp blacklisted
+[ INFO] [1606753901.974418175]: Plugin global_position loaded
+[ INFO] [1606753902.032651753]: Plugin global_position initialized
+[ INFO] [1606753902.032841708]: Plugin hil blacklisted
+[ INFO] [1606753902.033161954]: Plugin home_position loaded
+[ INFO] [1606753902.047560493]: Plugin home_position initialized
+[ INFO] [1606753902.048416681]: Plugin imu loaded
+[ INFO] [1606753902.073961837]: Plugin imu initialized
+[ INFO] [1606753902.074369783]: Plugin local_position loaded
+[ INFO] [1606753902.096207499]: Plugin local_position initialized
+[ INFO] [1606753902.096522486]: Plugin manual_control loaded
+[ INFO] [1606753902.106255568]: Plugin manual_control initialized
+[ INFO] [1606753902.106550334]: Plugin param loaded
+[ INFO] [1606753902.117734931]: Plugin param initialized
+[ INFO] [1606753902.118532527]: Plugin rc_io loaded
+[ INFO] [1606753902.129973966]: Plugin rc_io initialized
+[ INFO] [1606753902.130178420]: Plugin safety_area blacklisted
+[ INFO] [1606753902.130529850]: Plugin setpoint_accel loaded
+[ INFO] [1606753902.147149335]: Plugin setpoint_accel initialized
+[ INFO] [1606753902.147500154]: Plugin setpoint_attitude loaded
+[ INFO] [1606753902.184021823]: Plugin setpoint_attitude initialized
+[ INFO] [1606753902.184307460]: Plugin setpoint_position loaded
+[ INFO] [1606753902.227422044]: Plugin setpoint_position initialized
+[ INFO] [1606753902.227705088]: Plugin setpoint_raw loaded
+[ INFO] [1606753902.252729747]: Plugin setpoint_raw initialized
+[ INFO] [1606753902.253034845]: Plugin setpoint_trajectory loaded
+[ INFO] [1606753902.268611929]: Plugin setpoint_trajectory initialized
+[ INFO] [1606753902.268896584]: Plugin setpoint_velocity loaded
+[ INFO] [1606753902.284040481]: Plugin setpoint_velocity initialized
+[ INFO] [1606753902.284356765]: Plugin sys_status loaded
+[ INFO] [1606753902.318750743]: Plugin sys_status initialized
+[ INFO] [1606753902.319066397]: Plugin sys_time loaded
+[ INFO] [1606753902.333346070]: TM: Timesync mode: MAVLINK
+[ INFO] [1606753902.336867500]: Plugin sys_time initialized
+[ INFO] [1606753902.337123860]: Plugin vfr_hud loaded
+[ INFO] [1606753902.339064984]: Plugin vfr_hud initialized
+[ INFO] [1606753902.339331825]: Plugin waypoint loaded
+[ INFO] [1606753902.352444621]: Plugin waypoint initialized
+[ INFO] [1606753902.352712776]: Plugin wind_estimation loaded
+[ INFO] [1606753902.354513888]: Plugin wind_estimation initialized
+[ INFO] [1606753902.354668511]: Built-in SIMD instructions: ARM NEON
+[ INFO] [1606753902.354747360]: Built-in MAVLink package version: 2020.9.10
+[ INFO] [1606753902.354838615]: Known MAVLink dialects: common ardupilotmega ASLUAV all autoquad icarous matrixpilot paparazzi standard uAvionix ualberta
+[ INFO] [1606753902.354910964]: MAVROS started. MY ID 1.240, TARGET ID 1.1
+[ INFO] [1606753902.395415525]: RC_CHANNELS message detected!
+[ INFO] [1606753902.860255908]: CON: Got HEARTBEAT, connected. FCU: ArduPilot
+[ INFO] [1606753903.136141196]: RC_CHANNELS message detected!
+[ WARN] [1606753903.435113453]: TM : RTT too high for timesync: 297.94 ms.
+[ WARN] [1606753904.070949576]: TM : RTT too high for timesync: 233.92 ms.
+[ INFO] [1606753904.247970213]: WP: Using MISSION_ITEM_INT
+[ INFO] [1606753904.248269682]: VER: 1.1: Capabilities         0x0000000000001bcf
+[ INFO] [1606753904.248466526]: VER: 1.1: Flight software:     030505ff (27229c830384802e1bcae90b)
+[ INFO] [1606753904.248644612]: VER: 1.1: Middleware software: 00000000 (0384802e1bcae90b)
+[ INFO] [1606753904.248803513]: VER: 1.1: OS software:         00000000 (1bcae90b)
+[ INFO] [1606753904.248985450]: VER: 1.1: Board hardware:      00000000
+[ INFO] [1606753904.249176072]: VER: 1.1: VID/PID:             0000:0000
+[ INFO] [1606753904.249328788]: VER: 1.1: UID:                 0000000000000000
+[ WARN] [1606753904.249771456]: CMD: Unexpected command 520, result 0
+[ WARN] [1606753905.045685468]: TM : RTT too high for timesync: 308.63 ms.
+[ WARN] [1606753905.565562129]: TM : RTT too high for timesync: 228.57 ms.
+[ WARN] [1606753906.201419739]: TM : RTT too high for timesync: 164.36 ms.
+[ WARN] [1606753906.854314391]: TM : RTT too high for timesync: 217.23 ms.
+[ WARN] [1606753907.950029601]: TM : RTT too high for timesync: 212.97 ms.
